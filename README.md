@@ -1,3 +1,4 @@
+Title : USB Rubber Duckey Password Sniffer:
 
 -> Automatically retrieves passwords upon connection if Rubber Ducky is used else manually run the script 
 
